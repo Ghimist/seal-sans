@@ -4,6 +4,8 @@
 	font-weight: 400;
 	font-display: swap;
 	src:
+		local('Seal Sans'),/* 1. 優先嘗試本機系統字體 */
+		var(--seal-base64-src, local('invalid-fallback')),/* 2. 嘗試調用變量中的 Base64 */
 		url('https://cdn.jsdelivr.net/gh/Ghimist/seal-sans/SealSans-Regular_v0.woff2') format('woff2'),
 		url('https://cdn.jsdelivr.net/gh/Ghimist/seal-sans/SealSans-Regular_v0.woff') format('woff'),
 		url('https://cdn.jsdelivr.net/gh/Ghimist/seal-sans/SealSans-Regular_v0.otf') format('opentype');
