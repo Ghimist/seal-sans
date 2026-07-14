@@ -1,0 +1,17 @@
+@font-face {
+	font-family: Seal Sans;
+	src:
+		local(Seal Sans),
+		url('https://cdn.jsdelivr.net/gh/Ghimist/seal-sans@main/url/SealSans-Regular.woff2') format(woff2);
+	font-style: normal;
+	font-weight: normal;
+	font-width: normal;
+	unicode-range:
+		U+3D000-3FC3F,
+		U+302A-302F, U+FE00;
+	font-display: swap;
+	font-language-override: normal;
+	ascent-override: 50%;
+	descent-override: 50%;
+	line-gap-override: 0%;
+}
