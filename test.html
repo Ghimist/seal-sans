@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<style>body {
+    font-family: 'Test';
+    font-size: 48px;
+    line-height: 1.5;
+    
+    /* 強制開啟所有排版特性 */
+    /* ccmp: 組合字符替換, kern: 橫排字距, vkrn: 直排字距 */
+    /* font-feature-settings: "kern" 1, "vkrn" 0; */
+}
+
+.vertical-text {
+    writing-mode: vertical-rl;
+    /* 直排模式下，再次確認開啟特性 */
+    /* font-feature-settings: "kern" 0, "vkrn" 1; */
+}
+  @font-face {
+    font-family: 'Test';
+    src: url('./SealSans-Regular.woff2');
+  }
+    @font-face {
+    font-family: '??';
+  }
+  body {
+    font-family: 'Test','??';
+    font-size: 48px;
+    /* 移除多餘的 "calt" 1，讓瀏覽器依據正常標準處理 */
+  }
+  .vertical-text {
+    writing-mode: vertical-rl;
+    /* 直排模式會自動觸發 vert 和 vkrn 特性 */
+  }
+</style>
+</head>
+<body>
+<p>𽀖〪〪︀〮〯𽀖〪〪︀〮〯</p>
+<div><bdo dir="rtl">bdo<br>𽀖〪〪︀〮〯𽀖〪〪︀〮〯</bdo></div>
+<div><bdi dir="rtl">bdi<br>𽀖〪〪︀〮〯𽀖〪〪︀〮〯</bdi></div>
+<div class="vertical-text">𽀖〪〪︀〮〯𽀖〪〪︀〮〯<br>𽀖〪〪︀〮〯𽀖〪〪︀〮〯</div>
+&#x20615;&#x302a
+
+</body>
+</html>

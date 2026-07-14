@@ -1,0 +1,14 @@
+git filter-repo \
+--path SealSans-Regular_v0.woff2 \
+--path SealSans-Regular_v0.woff \
+--path SealSans-Regular_v0.otf \
+--path .gitignore \
+--path README.md \
+--path SealSans-Regular_v0_base64.txt \
+--path url/SealSans-Regular.woff2 \
+--path .trash/Uniseal_0_v0_data1.xlsx \
+--path .trash/Uniseal.txt \
+--path .trash/fc/"Seal Sans Regular map.fcp" \
+--path SealSans.css \
+--path SealSans-Regular_v0.woff2_base64_output-w.txt \
+--force
