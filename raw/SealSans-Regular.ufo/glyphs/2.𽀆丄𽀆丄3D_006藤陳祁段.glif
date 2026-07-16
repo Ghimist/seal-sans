@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="2.𽀆丄𽀆丄3D006藤陳祁段" format="2">
+  <advance width="1024" height="1024"/>
+  <unicode hex="3D006"/>
+  <outline>
+    <contour>
+      <point x="178" y="-403" type="qcurve"/>
+      <point x="178" y="-379"/>
+      <point x="505" y="-378" type="qcurve"/>
+      <point x="505" y="373" type="line"/>
+      <point x="505" y="425"/>
+      <point x="532" y="425" type="qcurve"/>
+      <point x="554" y="425"/>
+      <point x="561" y="169" type="qcurve"/>
+      <point x="555" y="-240" type="line"/>
+      <point x="556" y="-379" type="line"/>
+      <point x="809" y="-377" type="line"/>
+      <point x="839" y="-389" type="line"/>
+      <point x="846" y="-403" type="line"/>
+      <point x="846" y="-425"/>
+      <point x="825" y="-425" type="qcurve"/>
+      <point x="784" y="-421"/>
+      <point x="245" y="-420" type="qcurve"/>
+      <point x="178" y="-420"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <real>-0.00390625</real>
+    </dict>
+  </lib>
+</glyph>

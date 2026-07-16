@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<designspace format="5.0">
+  <axes>
+  </axes>
+  <sources>
+    <source familyname="Seal Sans" filename="masters/Regular.ufo" name="Regular" stylename="Regular">
+    </source>
+  </sources>
+  <instances>
+    <instance familyname="Seal Sans" filename="instances/Regular.ufo" name="Regular" stylename="Regular">
+    </instance>
+  </instances>
+</designspace>

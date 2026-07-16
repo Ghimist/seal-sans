@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="463.𿗝弓𿗝弓3F5DD藤陳祁段" format="2">
+  <advance width="1024" height="1024"/>
+  <unicode hex="3F5DD"/>
+  <outline>
+    <contour>
+      <point x="697" y="336" type="qcurve"/>
+      <point x="696" y="370" type="line"/>
+      <point x="330" y="372"/>
+      <point x="330" y="392" type="qcurve"/>
+      <point x="330" y="405"/>
+      <point x="394" y="405" type="qcurve"/>
+      <point x="696" y="401" type="line"/>
+      <point x="697" y="487"/>
+      <point x="710" y="487" type="qcurve"/>
+      <point x="729" y="487"/>
+      <point x="729" y="427" type="qcurve"/>
+      <point x="729" y="314"/>
+      <point x="710" y="228"/>
+      <point x="627" y="228" type="qcurve"/>
+      <point x="442" y="227"/>
+      <point x="368" y="219"/>
+      <point x="368" y="179" type="qcurve"/>
+      <point x="368" y="140"/>
+      <point x="438" y="104"/>
+      <point x="592" y="102" type="qcurve"/>
+      <point x="666" y="100"/>
+      <point x="729" y="56"/>
+      <point x="729" y="-25" type="qcurve"/>
+      <point x="729" y="-81"/>
+      <point x="670" y="-136"/>
+      <point x="496" y="-159" type="qcurve"/>
+      <point x="429" y="-168"/>
+      <point x="365" y="-256"/>
+      <point x="331" y="-426" type="qcurve"/>
+      <point x="321" y="-488"/>
+      <point x="309" y="-488" type="qcurve"/>
+      <point x="294" y="-488"/>
+      <point x="294" y="-463" type="qcurve"/>
+      <point x="294" y="-443"/>
+      <point x="317" y="-342" type="qcurve"/>
+      <point x="348" y="-209"/>
+      <point x="425" y="-135"/>
+      <point x="544" y="-120" type="qcurve"/>
+      <point x="697" y="-102"/>
+      <point x="697" y="-31" type="qcurve"/>
+      <point x="697" y="29"/>
+      <point x="662" y="71"/>
+      <point x="544" y="71" type="qcurve"/>
+      <point x="334" y="71"/>
+      <point x="334" y="179" type="qcurve"/>
+      <point x="334" y="213"/>
+      <point x="379" y="258"/>
+      <point x="610" y="258" type="qcurve"/>
+      <point x="697" y="258"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <real>-0.49609375</real>
+    </dict>
+  </lib>
+</glyph>

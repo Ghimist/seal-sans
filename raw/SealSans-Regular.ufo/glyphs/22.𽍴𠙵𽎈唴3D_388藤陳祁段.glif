@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="22.𽍴𠙵𽎈唴3D388藤陳祁段" format="2">
+  <advance width="1024" height="1024"/>
+  <unicode hex="3D388"/>
+  <outline>
+    <contour>
+      <point x="756" y="248" type="qcurve"/>
+      <point x="756" y="232"/>
+      <point x="599" y="232" type="qcurve"/>
+      <point x="599" y="137" type="line"/>
+      <point x="776" y="137"/>
+      <point x="776" y="119" type="qcurve"/>
+      <point x="776" y="103"/>
+      <point x="599" y="103" type="qcurve"/>
+      <point x="588" y="47" type="line"/>
+      <point x="703" y="-17"/>
+      <point x="703" y="-65" type="qcurve"/>
+      <point x="703" y="-94"/>
+      <point x="654" y="-169"/>
+      <point x="633" y="-210"/>
+      <point x="633" y="-248" type="qcurve"/>
+      <point x="633" y="-337"/>
+      <point x="782" y="-447" type="qcurve"/>
+      <point x="783" y="-455" type="line"/>
+      <point x="783" y="-469"/>
+      <point x="769" y="-469" type="qcurve"/>
+      <point x="742" y="-469"/>
+      <point x="656" y="-396"/>
+      <point x="600" y="-301"/>
+      <point x="600" y="-246" type="qcurve"/>
+      <point x="600" y="-201"/>
+      <point x="652" y="-112" type="qcurve"/>
+      <point x="670" y="-84"/>
+      <point x="670" y="-68" type="qcurve"/>
+      <point x="670" y="-41"/>
+      <point x="570" y="15" type="qcurve"/>
+      <point x="563" y="5"/>
+      <point x="438" y="-152"/>
+      <point x="438" y="-383" type="qcurve"/>
+      <point x="438" y="-407" type="line"/>
+      <point x="438" y="-462"/>
+      <point x="425" y="-462" type="qcurve"/>
+      <point x="402" y="-462"/>
+      <point x="402" y="-326" type="qcurve"/>
+      <point x="402" y="-143"/>
+      <point x="513" y="-6" type="qcurve"/>
+      <point x="561" y="53"/>
+      <point x="567" y="103" type="qcurve"/>
+      <point x="428" y="103"/>
+      <point x="428" y="119" type="qcurve"/>
+      <point x="428" y="137"/>
+      <point x="568" y="137" type="qcurve"/>
+      <point x="568" y="232" type="line"/>
+      <point x="431" y="232"/>
+      <point x="431" y="249" type="qcurve"/>
+      <point x="431" y="266"/>
+      <point x="560" y="266" type="qcurve"/>
+      <point x="526" y="345" type="line"/>
+      <point x="415" y="345"/>
+      <point x="415" y="360" type="qcurve"/>
+      <point x="415" y="378"/>
+      <point x="509" y="378" type="qcurve"/>
+      <point x="480" y="446" type="line"/>
+      <point x="480" y="470"/>
+      <point x="498" y="470" type="qcurve"/>
+      <point x="506" y="470"/>
+      <point x="584" y="289" type="qcurve"/>
+      <point x="657" y="469"/>
+      <point x="670" y="469" type="qcurve"/>
+      <point x="688" y="447" type="line"/>
+      <point x="688" y="430"/>
+      <point x="660" y="379" type="qcurve"/>
+      <point x="740" y="379" type="line"/>
+      <point x="754" y="361" type="line"/>
+      <point x="754" y="345"/>
+      <point x="630" y="341"/>
+      <point x="612" y="311"/>
+      <point x="609" y="266" type="qcurve"/>
+      <point x="756" y="266"/>
+    </contour>
+    <contour>
+      <point x="258" y="370" type="qcurve"/>
+      <point x="273" y="370"/>
+      <point x="273" y="306" type="qcurve"/>
+      <point x="370" y="306" type="line"/>
+      <point x="370" y="370"/>
+      <point x="386" y="370" type="qcurve"/>
+      <point x="401" y="370"/>
+      <point x="401" y="259" type="qcurve"/>
+      <point x="401" y="121"/>
+      <point x="381" y="78"/>
+      <point x="323" y="78" type="qcurve"/>
+      <point x="274" y="78"/>
+      <point x="242" y="109"/>
+      <point x="242" y="239" type="qcurve"/>
+      <point x="242" y="370"/>
+    </contour>
+    <contour>
+      <point x="325" y="113" type="qcurve"/>
+      <point x="370" y="113"/>
+      <point x="370" y="142" type="qcurve"/>
+      <point x="370" y="273" type="line"/>
+      <point x="273" y="273" type="line"/>
+      <point x="273" y="149" type="line"/>
+      <point x="273" y="113"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <real>0.36328125</real>
+    </dict>
+  </lib>
+</glyph>

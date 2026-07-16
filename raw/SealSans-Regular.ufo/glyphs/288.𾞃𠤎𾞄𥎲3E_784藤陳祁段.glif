@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="288.𾞃𠤎𾞄𥎲3E784藤陳祁段" format="2">
+  <advance width="1024" height="1024"/>
+  <unicode hex="3E784"/>
+  <outline>
+    <contour>
+      <point x="501" y="443" type="qcurve"/>
+      <point x="520" y="443"/>
+      <point x="520" y="411" type="qcurve"/>
+      <point x="517" y="277" type="line"/>
+      <point x="511" y="222"/>
+      <point x="410" y="207" type="qcurve"/>
+      <point x="409" y="153" type="line"/>
+      <point x="526" y="133"/>
+      <point x="526" y="16" type="qcurve"/>
+      <point x="526" y="-4"/>
+      <point x="514" y="-4" type="qcurve"/>
+      <point x="502" y="-4"/>
+      <point x="465" y="98"/>
+      <point x="409" y="117" type="qcurve"/>
+      <point x="409" y="-56" type="line"/>
+      <point x="502" y="-55" type="line"/>
+      <point x="547" y="-55"/>
+      <point x="547" y="-73" type="qcurve"/>
+      <point x="547" y="-90"/>
+      <point x="454" y="-90" type="qcurve"/>
+      <point x="454" y="-115" type="line"/>
+      <point x="454" y="-225"/>
+      <point x="478" y="-330" type="qcurve"/>
+      <point x="485" y="-362"/>
+      <point x="485" y="-378" type="qcurve"/>
+      <point x="485" y="-403"/>
+      <point x="470" y="-403" type="qcurve"/>
+      <point x="427" y="-403"/>
+      <point x="420" y="-90" type="qcurve"/>
+      <point x="364" y="-90" type="line"/>
+      <point x="358" y="-403"/>
+      <point x="308" y="-403" type="qcurve"/>
+      <point x="295" y="-403"/>
+      <point x="295" y="-384" type="qcurve"/>
+      <point x="295" y="-376"/>
+      <point x="319" y="-294"/>
+      <point x="331" y="-148"/>
+      <point x="331" y="-118" type="qcurve"/>
+      <point x="331" y="-89" type="line"/>
+      <point x="233" y="-89"/>
+      <point x="233" y="-73" type="qcurve"/>
+      <point x="233" y="-55"/>
+      <point x="253" y="-55" type="qcurve"/>
+      <point x="378" y="-56" type="line"/>
+      <point x="379" y="118" type="line"/>
+      <point x="327" y="109"/>
+      <point x="300" y="17" type="qcurve"/>
+      <point x="294" y="-2"/>
+      <point x="287" y="-2" type="qcurve"/>
+      <point x="270" y="-2"/>
+      <point x="270" y="22" type="qcurve"/>
+      <point x="270" y="137"/>
+      <point x="379" y="153" type="qcurve"/>
+      <point x="379" y="205" type="line"/>
+      <point x="298" y="202" type="line"/>
+      <point x="271" y="202"/>
+      <point x="271" y="221" type="qcurve"/>
+      <point x="271" y="242"/>
+      <point x="318" y="242" type="qcurve"/>
+      <point x="455" y="242"/>
+      <point x="483" y="290"/>
+      <point x="483" y="354" type="qcurve"/>
+      <point x="300" y="327" type="line"/>
+      <point x="276" y="327"/>
+      <point x="276" y="342" type="qcurve"/>
+      <point x="276" y="360"/>
+      <point x="481" y="389" type="qcurve"/>
+      <point x="481" y="402" type="line"/>
+      <point x="481" y="443"/>
+    </contour>
+    <contour>
+      <point x="582" y="421" type="qcurve"/>
+      <point x="600" y="421"/>
+      <point x="608" y="55" type="qcurve"/>
+      <point x="702" y="55"/>
+      <point x="702" y="167" type="qcurve"/>
+      <point x="699" y="376" type="line"/>
+      <point x="699" y="415"/>
+      <point x="717" y="415" type="qcurve"/>
+      <point x="741" y="415"/>
+      <point x="742" y="177" type="qcurve"/>
+      <point x="742" y="43"/>
+      <point x="683" y="22" type="qcurve"/>
+      <point x="657" y="13"/>
+      <point x="609" y="13" type="qcurve"/>
+      <point x="615" y="-56"/>
+      <point x="790" y="-172"/>
+      <point x="790" y="-409" type="qcurve"/>
+      <point x="790" y="-443"/>
+      <point x="774" y="-443" type="qcurve"/>
+      <point x="750" y="-443"/>
+      <point x="748" y="-377" type="qcurve"/>
+      <point x="743" y="-191"/>
+      <point x="656" y="-129" type="qcurve"/>
+      <point x="603" y="-92"/>
+      <point x="567" y="-35"/>
+      <point x="563" y="371" type="qcurve"/>
+      <point x="563" y="421"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <real>-0.30078125</real>
+    </dict>
+  </lib>
+</glyph>

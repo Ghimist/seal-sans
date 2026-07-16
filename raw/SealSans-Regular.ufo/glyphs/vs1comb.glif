@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="vs1comb" format="2">
+  <advance width="1024" height="1024"/>
+  <unicode hex="FE00"/>
+  <outline>
+    <contour>
+      <point x="0" y="-512" type="line"/>
+      <point x="1024" y="-512" type="line"/>
+      <point x="1024" y="512" type="line"/>
+      <point x="0" y="512" type="line"/>
+    </contour>
+  <component base="ideographicleveltonemarkcomb.1" xOffset="1024"/>
+  <component base="ideographicrisingtonemarkcomb.1" xOffset="1024"/>
+  <component base="ideographicdepartingtonemarkcomb.1" xOffset="1024"/>
+  <component base="ideographicenteringtonemarkcomb.1" xOffset="1024"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>-12</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="480.𿡙土𿣳圭3F8F3藤陳祁段" format="2">
+  <advance width="1024" height="1024"/>
+  <unicode hex="3F8F3"/>
+  <outline>
+    <contour>
+      <point x="235" y="10" type="qcurve"/>
+      <point x="235" y="33"/>
+      <point x="493" y="33" type="qcurve"/>
+      <point x="493" y="161" type="line"/>
+      <point x="275" y="161"/>
+      <point x="275" y="184" type="qcurve"/>
+      <point x="275" y="207"/>
+      <point x="493" y="207" type="qcurve"/>
+      <point x="493" y="382"/>
+      <point x="514" y="382" type="qcurve"/>
+      <point x="532" y="382"/>
+      <point x="532" y="207" type="qcurve"/>
+      <point x="736" y="207"/>
+      <point x="736" y="184" type="qcurve"/>
+      <point x="736" y="161"/>
+      <point x="532" y="161" type="qcurve"/>
+      <point x="532" y="33" type="line"/>
+      <point x="784" y="33"/>
+      <point x="788" y="10" type="qcurve"/>
+      <point x="788" y="-13"/>
+      <point x="508" y="-13" type="qcurve"/>
+      <point x="235" y="-13"/>
+    </contour>
+    <contour>
+      <point x="237" y="-359" type="qcurve"/>
+      <point x="237" y="-337"/>
+      <point x="495" y="-337" type="qcurve"/>
+      <point x="495" y="-208" type="line"/>
+      <point x="276" y="-208"/>
+      <point x="276" y="-185" type="qcurve"/>
+      <point x="276" y="-162"/>
+      <point x="495" y="-162" type="qcurve"/>
+      <point x="495" y="-18"/>
+      <point x="515" y="-18" type="qcurve"/>
+      <point x="534" y="-18"/>
+      <point x="534" y="-162" type="qcurve"/>
+      <point x="737" y="-162"/>
+      <point x="737" y="-185" type="qcurve"/>
+      <point x="737" y="-208"/>
+      <point x="534" y="-208" type="qcurve"/>
+      <point x="534" y="-337" type="line"/>
+      <point x="786" y="-337"/>
+      <point x="790" y="-359" type="qcurve"/>
+      <point x="790" y="-383"/>
+      <point x="510" y="-383" type="qcurve"/>
+      <point x="237" y="-383"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <real>-0.0625</real>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="314.𾢤皃𾢧𡭪3E8A7藤陳祁段" format="2">
+  <advance width="1024" height="1024"/>
+  <unicode hex="3E8A7"/>
+  <outline>
+    <contour>
+      <point x="337" y="144" type="qcurve"/>
+      <point x="337" y="237"/>
+      <point x="414" y="267"/>
+      <point x="480" y="270" type="qcurve"/>
+      <point x="481" y="481"/>
+      <point x="498" y="481" type="qcurve"/>
+      <point x="522" y="481"/>
+      <point x="522" y="271" type="qcurve"/>
+      <point x="596" y="267" type="line"/>
+      <point x="677" y="251"/>
+      <point x="677" y="124" type="qcurve"/>
+      <point x="677" y="6"/>
+      <point x="572" y="-6" type="qcurve"/>
+      <point x="575" y="-61"/>
+      <point x="625" y="-79" type="qcurve"/>
+      <point x="713" y="-111"/>
+      <point x="713" y="-182" type="qcurve"/>
+      <point x="713" y="-210"/>
+      <point x="650" y="-311" type="qcurve"/>
+      <point x="645" y="-332" type="line"/>
+      <point x="645" y="-367"/>
+      <point x="723" y="-426" type="qcurve"/>
+      <point x="757" y="-453"/>
+      <point x="757" y="-468" type="qcurve"/>
+      <point x="757" y="-485"/>
+      <point x="739" y="-485" type="qcurve"/>
+      <point x="722" y="-485"/>
+      <point x="629" y="-399"/>
+      <point x="606" y="-351"/>
+      <point x="606" y="-332" type="qcurve"/>
+      <point x="606" y="-306"/>
+      <point x="657" y="-231" type="qcurve"/>
+      <point x="673" y="-206"/>
+      <point x="673" y="-182" type="qcurve"/>
+      <point x="673" y="-158"/>
+      <point x="636" y="-132"/>
+      <point x="535" y="-90"/>
+      <point x="534" y="-8" type="qcurve"/>
+      <point x="489" y="-7" type="line"/>
+      <point x="490" y="-38" type="line"/>
+      <point x="490" y="-89"/>
+      <point x="383" y="-148"/>
+      <point x="383" y="-209" type="qcurve"/>
+      <point x="383" y="-278"/>
+      <point x="404" y="-403" type="qcurve"/>
+      <point x="404" y="-426"/>
+      <point x="390" y="-426" type="qcurve"/>
+      <point x="362" y="-426"/>
+      <point x="344" y="-222" type="qcurve"/>
+      <point x="344" y="-127"/>
+      <point x="433" y="-71" type="qcurve"/>
+      <point x="449" y="-61"/>
+      <point x="449" y="-17" type="qcurve"/>
+      <point x="449" y="-4" type="line"/>
+      <point x="394" y="5"/>
+      <point x="337" y="47"/>
+    </contour>
+    <contour>
+      <point x="380" y="161" type="qcurve"/>
+      <point x="633" y="158" type="line"/>
+      <point x="624" y="207" type="line"/>
+      <point x="618" y="231"/>
+      <point x="466" y="231" type="qcurve"/>
+      <point x="388" y="231"/>
+    </contour>
+    <contour>
+      <point x="635" y="122" type="qcurve"/>
+      <point x="380" y="122" type="line"/>
+      <point x="385" y="70"/>
+      <point x="432" y="33"/>
+      <point x="525" y="33" type="qcurve"/>
+      <point x="633" y="33"/>
+    </contour>
+    <contour>
+      <point x="610" y="485" type="qcurve"/>
+      <point x="628" y="485"/>
+      <point x="628" y="390"/>
+      <point x="662" y="336"/>
+      <point x="737" y="284"/>
+      <point x="737" y="267" type="qcurve"/>
+      <point x="737" y="253"/>
+      <point x="721" y="253" type="qcurve"/>
+      <point x="705" y="253"/>
+      <point x="679" y="270" type="qcurve"/>
+      <point x="586" y="329"/>
+      <point x="586" y="423" type="qcurve"/>
+      <point x="586" y="485"/>
+    </contour>
+    <contour>
+      <point x="384" y="464" type="qcurve"/>
+      <point x="411" y="464"/>
+      <point x="411" y="414" type="qcurve"/>
+      <point x="411" y="291"/>
+      <point x="325" y="247" type="qcurve"/>
+      <point x="300" y="234"/>
+      <point x="282" y="234" type="qcurve"/>
+      <point x="267" y="234"/>
+      <point x="267" y="247" type="qcurve"/>
+      <point x="267" y="260"/>
+      <point x="339" y="308"/>
+      <point x="366" y="361"/>
+      <point x="366" y="464"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <real>-0.42578125</real>
+    </dict>
+  </lib>
+</glyph>

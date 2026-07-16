@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="354.𾫣厂𾫣厂3EAE3藤陳祁段" format="2">
+  <advance width="1024" height="1024"/>
+  <unicode hex="3EAE3"/>
+  <outline>
+    <contour>
+      <point x="610" y="416" type="qcurve"/>
+      <point x="773" y="416"/>
+      <point x="773" y="386" type="qcurve"/>
+      <point x="773" y="356"/>
+      <point x="726" y="356" type="qcurve"/>
+      <point x="600" y="359" type="line"/>
+      <point x="414" y="359"/>
+      <point x="371" y="328"/>
+      <point x="371" y="170" type="qcurve"/>
+      <point x="371" y="-416"/>
+      <point x="268" y="-416" type="qcurve"/>
+      <point x="251" y="-416"/>
+      <point x="251" y="-392" type="qcurve"/>
+      <point x="251" y="-379"/>
+      <point x="264" y="-348" type="qcurve"/>
+      <point x="325" y="-196"/>
+      <point x="325" y="77" type="qcurve"/>
+      <point x="321" y="282" type="line"/>
+      <point x="321" y="366"/>
+      <point x="395" y="416"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <real>0.21484375</real>
+    </dict>
+  </lib>
+</glyph>

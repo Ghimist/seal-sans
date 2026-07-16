@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="9.𽄓士𽄓士3D113藤陳祁段" format="2">
+  <advance width="1024" height="1024"/>
+  <unicode hex="3D113"/>
+  <outline>
+    <contour>
+      <point x="222" y="90" type="qcurve"/>
+      <point x="222" y="113"/>
+      <point x="496" y="113" type="qcurve"/>
+      <point x="496" y="395"/>
+      <point x="523" y="395" type="qcurve"/>
+      <point x="545" y="395"/>
+      <point x="545" y="113" type="qcurve"/>
+      <point x="798" y="113"/>
+      <point x="802" y="91" type="qcurve"/>
+      <point x="802" y="67"/>
+      <point x="545" y="67" type="qcurve"/>
+      <point x="545" y="-349" type="line"/>
+      <point x="759" y="-349"/>
+      <point x="762" y="-372" type="qcurve"/>
+      <point x="762" y="-395"/>
+      <point x="514" y="-395" type="qcurve"/>
+      <point x="272" y="-395"/>
+      <point x="272" y="-374" type="qcurve"/>
+      <point x="281" y="-357" type="line"/>
+      <point x="290" y="-349"/>
+      <point x="496" y="-349" type="qcurve"/>
+      <point x="496" y="67" type="line"/>
+      <point x="222" y="67"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <real>0.30859375</real>
+    </dict>
+  </lib>
+</glyph>

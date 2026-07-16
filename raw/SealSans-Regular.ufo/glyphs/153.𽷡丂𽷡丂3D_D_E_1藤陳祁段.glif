@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="153.𽷡丂𽷡丂3DDE1藤陳祁段" format="2">
+  <advance width="1024" height="1024"/>
+  <unicode hex="3DDE1"/>
+  <outline>
+    <contour>
+      <point x="755" y="352" type="qcurve"/>
+      <point x="755" y="335"/>
+      <point x="514" y="331" type="qcurve"/>
+      <point x="513" y="283" type="line"/>
+      <point x="513" y="189"/>
+      <point x="530" y="161"/>
+      <point x="639" y="138"/>
+      <point x="672" y="83"/>
+      <point x="672" y="42" type="qcurve"/>
+      <point x="672" y="-86"/>
+      <point x="579" y="-249" type="qcurve"/>
+      <point x="506" y="-378"/>
+      <point x="441" y="-378" type="qcurve"/>
+      <point x="419" y="-358" type="line"/>
+      <point x="419" y="-349"/>
+      <point x="439" y="-336" type="qcurve"/>
+      <point x="521" y="-285"/>
+      <point x="589" y="-133" type="qcurve"/>
+      <point x="630" y="-40"/>
+      <point x="630" y="41" type="qcurve"/>
+      <point x="630" y="94"/>
+      <point x="583" y="105" type="qcurve"/>
+      <point x="480" y="128"/>
+      <point x="473" y="181" type="qcurve"/>
+      <point x="471" y="330" type="line"/>
+      <point x="308" y="327" type="line"/>
+      <point x="270" y="327"/>
+      <point x="270" y="345" type="qcurve"/>
+      <point x="270" y="372"/>
+      <point x="643" y="378" type="qcurve"/>
+      <point x="755" y="378"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <real>0.20703125</real>
+    </dict>
+  </lib>
+</glyph>

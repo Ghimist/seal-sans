@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="singledottone-hang" format="2">
+  <advance width="0"/>
+  <unicode hex="302E"/>
+  <outline>
+    <contour>
+      <point x="-512" y="-576" type="curve"/>
+      <point x="-547" y="-576"/>
+      <point x="-576" y="-547"/>
+      <point x="-576" y="-512" type="curve"/>
+      <point x="-576" y="-476"/>
+      <point x="-547" y="-448"/>
+      <point x="-512" y="-448" type="curve"/>
+      <point x="-476" y="-448"/>
+      <point x="-448" y="-476"/>
+      <point x="-448" y="-512" type="curve"/>
+      <point x="-448" y="-547"/>
+      <point x="-476" y="-576"/>
+    </contour>
+  </outline>
+</glyph>

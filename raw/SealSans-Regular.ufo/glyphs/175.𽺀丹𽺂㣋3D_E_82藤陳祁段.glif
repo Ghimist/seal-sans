@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="175.𽺀丹𽺂㣋3DE82藤陳祁段" format="2">
+  <advance width="1024" height="1024"/>
+  <unicode hex="3DE82"/>
+  <outline>
+    <contour>
+      <point x="434" y="64" type="qcurve"/>
+      <point x="456" y="55" type="line"/>
+      <point x="465" y="30" type="line"/>
+      <point x="465" y="-5"/>
+      <point x="428" y="-5" type="qcurve"/>
+      <point x="395" y="-5"/>
+      <point x="395" y="27" type="qcurve"/>
+      <point x="395" y="64"/>
+    </contour>
+    <contour>
+      <point x="341" y="175" type="qcurve"/>
+      <point x="340" y="272"/>
+      <point x="305" y="374" type="qcurve"/>
+      <point x="306" y="393" type="line"/>
+      <point x="318" y="393"/>
+      <point x="372" y="278"/>
+      <point x="382" y="176" type="qcurve"/>
+      <point x="474" y="176" type="line"/>
+      <point x="494" y="376"/>
+      <point x="549" y="376" type="qcurve"/>
+      <point x="553" y="369" type="line"/>
+      <point x="515" y="230"/>
+      <point x="514" y="172" type="qcurve"/>
+      <point x="594" y="164"/>
+      <point x="594" y="152" type="qcurve"/>
+      <point x="594" y="139"/>
+      <point x="514" y="133" type="qcurve"/>
+      <point x="518" y="-68" type="line"/>
+      <point x="614" y="-70"/>
+      <point x="625" y="-81" type="qcurve"/>
+      <point x="603" y="-100"/>
+      <point x="520" y="-111" type="qcurve"/>
+      <point x="531" y="-284"/>
+      <point x="563" y="-392" type="qcurve"/>
+      <point x="503" y="-367"/>
+      <point x="480" y="-115" type="qcurve"/>
+      <point x="373" y="-117" type="line"/>
+      <point x="351" y="-380"/>
+      <point x="293" y="-380" type="qcurve"/>
+      <point x="293" y="-373" type="line"/>
+      <point x="292" y="-373" type="line"/>
+      <point x="319" y="-285"/>
+      <point x="333" y="-117" type="qcurve"/>
+      <point x="236" y="-117"/>
+      <point x="236" y="-98" type="qcurve"/>
+      <point x="236" y="-87"/>
+      <point x="335" y="-76" type="qcurve"/>
+      <point x="341" y="133" type="line"/>
+      <point x="238" y="137"/>
+      <point x="238" y="157" type="qcurve"/>
+      <point x="238" y="171"/>
+    </contour>
+    <contour>
+      <point x="385" y="130" type="line"/>
+      <point x="385" y="120" type="line"/>
+      <point x="385" y="33"/>
+      <point x="377" y="-73" type="qcurve"/>
+      <point x="477" y="-67" type="line"/>
+      <point x="470" y="130" type="line"/>
+    </contour>
+    <contour>
+      <point x="755" y="346" type="qcurve"/>
+      <point x="761" y="346"/>
+      <point x="761" y="336" type="qcurve"/>
+      <point x="761" y="259"/>
+      <point x="660" y="149" type="qcurve"/>
+      <point x="598" y="82"/>
+      <point x="561" y="82" type="qcurve"/>
+      <point x="555" y="86" type="line"/>
+      <point x="565" y="101" type="line"/>
+      <point x="607" y="143"/>
+      <point x="735" y="323" type="qcurve"/>
+      <point x="748" y="346"/>
+    </contour>
+    <contour>
+      <point x="787" y="-39" type="qcurve"/>
+      <point x="787" y="-183"/>
+      <point x="656" y="-320" type="qcurve"/>
+      <point x="623" y="-355"/>
+      <point x="611" y="-355" type="qcurve"/>
+      <point x="611" y="-347" type="line"/>
+      <point x="610" y="-347" type="line"/>
+      <point x="747" y="-96"/>
+      <point x="767" y="-21"/>
+      <point x="776" y="-20" type="qcurve"/>
+      <point x="787" y="-27"/>
+    </contour>
+    <contour>
+      <point x="614" y="-40" type="line"/>
+      <point x="622" y="-28" type="line"/>
+      <point x="713" y="60"/>
+      <point x="748" y="150" type="qcurve"/>
+      <point x="756" y="169"/>
+      <point x="763" y="169" type="qcurve"/>
+      <point x="768" y="169"/>
+      <point x="768" y="159" type="qcurve"/>
+      <point x="768" y="136"/>
+      <point x="738" y="34"/>
+      <point x="642" y="-43"/>
+      <point x="620" y="-43" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <real>-0.18359375</real>
+    </dict>
+  </lib>
+</glyph>
